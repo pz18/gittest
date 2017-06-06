@@ -1,0 +1,29 @@
+asdas
+
+E:\wamp64\www\htmlpage\boheshai\Express-MongoDB-master>dir
+ 驱动器 E 中的卷是 新加卷
+ 卷的序列号是 AEAF-DA74
+
+ E:\wamp64\www\htmlpage\boheshai\Express-MongoDB-master 的目录
+
+2017/05/30  20:52    <DIR>          .
+2017/05/30  20:52    <DIR>          ..
+2017/06/02  11:14    <DIR>          .git
+2016/09/28  08:58               378 .gitattributes
+2017/05/30  13:30               652 .gitignore
+2017/05/30  15:30             1,656 app.js
+2017/05/29  21:02    <DIR>          bin
+2017/06/03  09:37             4,063 common.js
+2017/05/30  20:38               429 curl.js
+2017/05/29  21:02    <DIR>          models
+2017/05/30  13:30    <DIR>          nbproject
+2017/06/06  09:26    <DIR>          node_modules
+2017/05/30  10:07               428 package.json
+2017/05/31  07:00    <DIR>          public
+2016/09/28  08:58             1,183 README.md
+2017/05/29  21:04    <DIR>          routes
+2017/05/29  21:04    <DIR>          screenshots
+2017/05/27  12:55               292 test.php
+2017/06/02  10:53    <DIR>          views
+               8 个文件          9,081 字节
+              11 个目录 244,977,922,048 可用字节
